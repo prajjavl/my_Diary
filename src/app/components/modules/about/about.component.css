@@ -1,0 +1,19 @@
+.right-panel{
+    float: right;
+    margin: 5%;
+    width: 800px;
+}
+.left-panel{
+    float: left;
+    margin: 8% 5% 5% 5%;
+    border: 1px solid grey;
+    padding: 10px;
+}
+.my_container{
+    display: flex;
+    background-color: rgb(15, 7, 1);
+    color: aliceblue;
+    padding-bottom: 20px;
+    height: calc(100vh - 130px);
+    overflow: hidden auto;
+}
